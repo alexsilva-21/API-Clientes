@@ -15,4 +15,7 @@ router.put('/:id', clienteController.updateCliente);
 // Rota para deletar um cliente
 router.delete('/:id', clienteController.deleteCliente);
 
-module.exports = router;
+module.exports = router; 
+
+
+
